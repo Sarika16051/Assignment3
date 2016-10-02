@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">MyApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_add_detail">AddDetail</string>
+    <string name="title_activity_remove_detail">RemoveDetail</string>
+    <string name="title_activity_view">ViewActivity</string>
+    <string name="title_activity_file_saving">FileSaving</string>
+    <string name="title_activity_check">Check</string>
+    <string name="title_activity_create_pass">CreatePass</string>
+    <string name="title_activity_create_password">CreatePassword</string>
+    <string name="title_activity_modify_password">ModifyPassword</string>
+    <string name="enterMarks">Enter Marks</string>
+    <string name="enterRollNo">Enter Roll No</string>
+    <string name="add">Add</string>
+    <string name="modify">Modify</string>
+    <string name="gotoFileSaving">Go to file saving</string>
+    <string name="addModify">Go to add and modify database</string>
+    <string name="viewDB">View Database</string>
+    <string name="removeDB">Remove Database</string>
+    <string name="SetPassword">SET PASSWORD</string>
+    <string name="enterPassCreate">Enter password to create</string>
+    <string name="saveOnExternal">Save on External Storage</string>
+    <string name="saveOnInternal">Save on Internal Storage</string>
+    <string name="enterText">Enter your text here</string>
+    <string name="enterPassLogin">Enter password to login</string>
+    <string name="createPass">Create Password</string>
+    <string name="modifyPass">Modify Password</string>
+    <string name="Next">Next</string>
+    <string name="enterCurrPass">Enter current password</string>
+    <string name="enterNewPass">Enter new password</string>
+    <string name="changePass">Change Password</string>
+    <string name="remove">Remove</string>
+    <string name="view">View</string>
+
+</resources>
